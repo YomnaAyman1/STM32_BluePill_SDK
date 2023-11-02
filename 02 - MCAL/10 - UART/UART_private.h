@@ -1,7 +1,7 @@
 /*****************************************************/
- /* Author      : mosad                              */
- /* Version     : v01                                */
- /* date        : 20/9/2020                          */
+/* Author      : yomna                              */
+/* Version     : v01                                */
+/* date        : 25/5/2022                          */
 /*****************************************************/
 #ifndef UART_PRIVATE_H
 #define UART_PRIVATE_H
