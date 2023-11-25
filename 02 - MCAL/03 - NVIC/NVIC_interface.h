@@ -1,7 +1,7 @@
 /*****************************************************/
- /* Author      : mosad                              */
- /* Version     : v01                                */
- /* date        : 22/8/2020                          */
+/* Author      : yomna                              */
+/* Version     : v01                                */
+/* date        : 1/6/2022                           */
 /*****************************************************/
 #ifndef NVIC_INTERFACE_H
 #define NVIC_INTERFACE_H
