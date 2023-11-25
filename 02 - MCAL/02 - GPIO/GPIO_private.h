@@ -1,7 +1,7 @@
 /*****************************************************/
- /* Author      : mosad                              */
- /* Version     : v02                                */
- /* date        : 12/8/2020                           */
+/* Author      : yomna                              */
+/* Version     : v01                                */
+/* date        : 1/6/2022                           */
 /*****************************************************/
 #ifndef GPIO_PRIVATE_H
 #define GPIO_PRIVATE_H
